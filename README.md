@@ -29,7 +29,8 @@ Mute Mate is a lip-reading system that has been specifically designed to aid mut
   STCNN + BiLstm model architecture is defined with softmax activation. 
 </li>
 <li>
-  Model is trained and tested on the two sets of data.
+  Model is trained and tested on the two sets of data. A sample test video is of the format:<br>
+  <video src="./app/test_video.mp4"> 
 </li>
   <li>
     Finally, it has been integrated into a streamlit based application to make predictions. `streamlit run streamlitapp.py` will be used to run the application.
