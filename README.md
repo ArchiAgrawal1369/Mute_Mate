@@ -37,9 +37,11 @@ https://github.com/ArchiAgrawal1369/Mute_Mate/assets/89705122/2182404e-0d0e-409c
 
 </li>
   <li>
-    Finally, it has been integrated into a streamlit based application to make predictions. `streamlit run streamlitapp.py` will be used to run the application.
+    Finally, it has been integrated into a streamlit based application to make predictions.
   </li>
 </ol>
+
+Hence, to run this application, one needs to import data from the given URL in the project and run the command `streamlit run streamlitapp.py`.
 
 ## Further Reading
 Read more about lip-reading model at https://arxiv.org/abs/1611.01599
