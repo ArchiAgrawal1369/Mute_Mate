@@ -29,7 +29,7 @@ Mute Mate is a lip-reading system that has been specifically designed to aid mut
   STCNN + BiLstm model architecture is defined with softmax activation. 
 </li>
 <li>
-  Model is trained and tested on the two sets of data.
+  Model is trained and tested on the two sets of data. A sample test video is of the format:<br>
   
 
 https://github.com/ArchiAgrawal1369/Mute_Mate/assets/89705122/2182404e-0d0e-409c-b951-077ed89d514c
