@@ -22,7 +22,7 @@ Mute Mate is a lip-reading system that has been specifically designed to aid mut
 </ul>
 
 ## Development Steps
-The subset of the GRID Corpus dataset used for this project can be downloaded from https://drive.google.com/uc?id=1YlvpDLix3S-U8fd-gqRwPcWXAXm8JwjL<br>
+The subset of the GRID Corpus dataset used for this project can be downloaded from <a href="https://drive.google.com/uc?id=1YlvpDLix3S-U8fd-gqRwPcWXAXm8JwjL"> here</a>.<br>
 
 
 
