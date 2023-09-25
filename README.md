@@ -25,7 +25,15 @@ Mute Mate is a lip-reading system that has been specifically designed to aid mut
 <ol>
 <li>The subset of the GRID Corpus dataset used for this project can be downloaded from <a href="https://drive.google.com/uc?id=1YlvpDLix3S-U8fd-gqRwPcWXAXm8JwjL">here</a>.</li>
 <li>Data preprocessing is performed on the videos as well as their corresponding alignments.</li>
-<li></li>
+<li>
+  STCNN + BiLstm model architecture is defined with softmax activation. 
+</li>
+<li>
+  Model is trained and tested on the two sets of data.
+</li>
+  <li>
+    Finally, it has been integrated into a streamlit based application to make predictions. `streamlit run streamlitapp.py` will be used to run the application.
+  </li>
 </ol>
 
 ## Further Reading
