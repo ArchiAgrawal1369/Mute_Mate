@@ -30,7 +30,7 @@ Mute Mate is a lip-reading system that has been specifically designed to aid mut
 </li>
 <li>
   Model is trained and tested on the two sets of data. A sample test video is of the format:<br>
-  <img src="./app/test_video.mp4"> 
+https://github.com/ArchiAgrawal1369/Mute_Mate/assets/89705122/375621f3-1c3f-4750-ba2e-e0f5447d9150
 </li>
   <li>
     Finally, it has been integrated into a streamlit based application to make predictions. `streamlit run streamlitapp.py` will be used to run the application.
